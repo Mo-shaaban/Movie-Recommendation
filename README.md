@@ -53,4 +53,4 @@ Contributions to this project are currently not accepted. However, you are encou
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `LICENSE` file for more details.
 
-For any questions or inquiries regarding this project, please contact the project team at [email address].
+For any questions or inquiries regarding this project, please contact me at mo.shaaban2000@gmail.com
